@@ -12,3 +12,5 @@ but how does arbitrum and optimism work? well they are a little more leyer2 than
 If the entire Arbitrum ledger were to be destroyed, is it possible to recover all data from ethereum mainnet? 
 not unfotunately, However, it's important to note that the Ethereum mainnet does store high-level information about the Optimistic Rollup chains, such as the state roots and relevant metadata. In the event of a catastrophic failure or destruction of the Arbitrum ledger.
 If you deploy a smart contract on the Arbitrum network, it is not directly accessible on the Ethereum mainnet.
+
+I found something that nearly explain why the polygon is lower in gas fees. something about the technology that they use and their different costs in storing data on ethereum mainnet. but the main reason is the choice of the network. it can offer desired gas prices and the polygon prefers to provide a cost-effective gas fee environment for users.
