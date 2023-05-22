@@ -1,6 +1,6 @@
 we want to use the chainlink vrf in a long term project. our prefer is to use the version2 chainlink vrf. but due to the chianlink vrf version3 is deployed and is working know, is it probable that the version2 be deplecated? if the answer is yes, then when will it happen?
 
-here is the chat gpt answer :
+here is the chat gpt answer:
 
 3 / 3
 
